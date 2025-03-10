@@ -3,7 +3,7 @@ const { Connection, PublicKey } = require('@solana/web3.js');
 const { Metadata } = require('@metaplex-foundation/mpl-token-metadata');
 
 // Telegram Bot Token (Replace with your actual bot token)
-const BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN";
+const BOT_TOKEN = "7420937580:AAFd9Y1fkZZwt7AwnngaLAvl3X91r_G8SNg";
 
 // Solana RPC Endpoint (Use mainnet or devnet as needed)
 const SOLANA_RPC = "https://api.mainnet-beta.solana.com";
